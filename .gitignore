@@ -1,0 +1,20 @@
+# Go specific
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+/vendor/
+
+# IDE specific
+.idea/
+*.iml
+*.iws
+*.ipr
+.vscode/
+
+# OS specific
+.DS_Store
+Thumbs.db
