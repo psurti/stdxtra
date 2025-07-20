@@ -44,3 +44,5 @@ func (v *Value[T]) Get() T {
 func (v *Value[T]) Set(val T) {
 	v.val = val
 }
+
+type Values[T any] []Value[T]
