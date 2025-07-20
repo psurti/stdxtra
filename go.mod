@@ -1,4 +1,4 @@
-module stdxtra
+module github.com/psurti/stdxtra
 
 go 1.24
 

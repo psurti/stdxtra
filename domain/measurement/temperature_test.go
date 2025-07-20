@@ -1,7 +1,7 @@
 package measurement
 
 import (
-	"stdxtra/domain/value"
+	"github.com/psurti/stdxtra/domain/value"
 	"testing"
 
 	"github.com/stretchr/testify/assert"
